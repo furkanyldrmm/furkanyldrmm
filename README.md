@@ -16,3 +16,5 @@
 <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanyldrmm&show_icons=true&locale=en&layout=compact" alt="furkanyldrmm" />
 <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=furkanyldrmm&show_icons=true&locale=en" alt="furkanyldrmm"/></p>
 
+![Alt Text](https://media.giphy.com/media/i3REGCe2fPUZwnQ8mn/giphy.gif)
+
